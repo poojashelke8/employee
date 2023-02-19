@@ -5,8 +5,7 @@ import Header from './Header'
 import Add from './Add'
 import Edit from './Edit'
 import List from './List'
-// import List2 from '../React-Table/List2';
-import List2 from '../React-Table/List2';
+
 
 function Dashboard() {
 

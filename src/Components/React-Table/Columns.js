@@ -1,7 +1,3 @@
-const handleEdit = (row) =>{
-    console.log(row)
-  }
-
 export const COLUMNS = [
     {
         Header:"No.",
